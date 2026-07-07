@@ -1,0 +1,8 @@
+name = "ocr-worker"
+main = "src/index.js"
+compatibility_date = "2026-07-07"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "ocr-db"
+database_id = "YOUR_DATABASE_ID"
